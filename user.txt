@@ -1,0 +1,68 @@
+2
+101
+vedant bhukte
+wasudev nagar
+1234567896
+5
+1056
+yellow chilly
+survey nagar
+3 03 2023
+11 46
+crispy veg
+1
+140
+1035
+shreenath saoji
+pratap nagar
+17 02 2023
+18 30
+dal fry
+3
+100
+1029
+barbeque nation
+bardi
+11 02 2023
+22 10
+chicken
+1
+400
+1025
+ganesh sagar
+civil lines
+05 02 2023
+9 30
+crispy veg
+2
+150
+1020
+shankar bhojnalay
+dharampeth
+10 01 2023
+10 25
+panner butter masala
+1
+100
+
+102
+vivek sharma
+dharampeth
+1234567895
+2
+1017
+pavan bhojnalay
+midc
+9 3 2023
+6 49
+dum aloo
+3
+200
+1011
+babbus restaurant
+yashoda nagar
+23 11 2022
+3 37
+chicken tikka masala
+1
+300

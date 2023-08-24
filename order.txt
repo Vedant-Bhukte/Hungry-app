@@ -1,0 +1,64 @@
+1001
+101
+vedant bhukte
+wasudev nagar
+9876543211
+12 3 2023
+12 39
+Babbus hotel
+wasudev nagar
+dosa
+3
+100
+
+1002
+102
+vivek sharma
+dharampeth
+1234567895
+12 3 2023
+19 23
+rahi bhojnalay
+trimurti nagar
+drinks
+5
+30
+
+1003
+102
+vivek sharma
+dharampeth
+1234567895
+12 3 2023
+19 23
+rahi bhojnalay
+trimurti nagar
+drinks
+5
+30
+
+980
+102
+vivek sharma
+dharampeth
+1234567895
+12 3 2023
+19 23
+rahi bhojnalay
+midc
+drinks
+5
+30
+
+990
+102
+ahisk sharma
+dharampeth
+1234567895
+12 3 2023
+19 23
+rahi bhojnalay
+dharampeth
+drinks
+5
+30

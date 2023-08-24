@@ -1,0 +1,50 @@
+Babbus hotel
+wasudev nagar
+20
+restaurant
+north indian
+2
+paneer
+150
+chicken
+200
+south indian
+2
+dosa
+100
+idli
+20
+chinese
+1
+noodles
+40
+
+rahi bhojnaylay
+trimurti nagar
+25
+pub
+south indian
+1
+dosa
+200
+continental
+1
+adacadabra
+20
+other
+1
+drinks
+30
+
+Raddison blue
+airport
+300
+restaurant
+other
+3
+cocktails
+200
+sizzler
+100
+coke
+45

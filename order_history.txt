@@ -1,0 +1,78 @@
+6
+1110
+101
+vedant bhukte
+wasudev nagar
+1286608622
+10 12 2022
+15 37
+babbus hotel
+wasudev nagar
+patodi rassa
+1
+200
+
+1111
+103
+ravi gautam
+civil lines
+1234567897
+22 12 2022
+11 23
+barbeque nation
+bardi
+chicken tikka
+3
+300
+
+1112
+104
+sam johnson
+dharampeth
+1286608626
+30 12 2022
+20 34
+gayatri bhojnalay
+dharampeth
+veg thali
+1
+180
+
+1113
+105
+rakesh sharma
+pratap nagar
+1234567892
+2 1 2023
+10 39
+gayatri bhojnalay
+dharampeth
+chicken tikka
+2
+200
+
+1114
+106
+akshay kumar
+civil lines
+1234567896
+6 1 2023
+19 46
+breakfast story
+civil lines
+sandwich
+1
+80
+
+998
+102
+vivek sharma
+dharampeth
+1234567895
+12 3 2023
+19 23
+rahi bhojnalay
+dharampeth
+drinks
+5
+30

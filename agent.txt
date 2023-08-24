@@ -1,0 +1,41 @@
+1
+Mahesh
+dharampeth
+123456789
+100
+0
+
+2
+rakesh
+wasudev nagar
+876543218
+20
+0
+
+3
+suresh
+civil lines
+9865432115
+500
+0
+
+4
+sachin
+trimurti nagar
+987654321
+70
+0
+
+5
+mohit
+pratap nagar
+123456789
+50
+0
+
+6
+tanmay
+midc
+987654317
+80
+0
